@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="in"
+                 name="Výtvarka 24/25"
+                 start-page="Mikuláš-Medek.md">
+
+    <toc-element topic="Jiří-Trnka.md"/>
+    <toc-element topic="Skupina-RA.md"/>
+    <toc-element topic="Bohuslav-Reynek.md"/>
+    <toc-element topic="Ladislav-Sutnar.md"/>
+    <toc-element topic="Zdeněk-Burian.md"/>
+    <toc-element topic="Mikuláš-Medek.md"/>
+    <toc-element topic="Stanislav-Kolíbal.md"/>
+    <toc-element topic="Edward-Hopper.md"/>
+</instance-profile>
