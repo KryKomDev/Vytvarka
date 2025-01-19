@@ -12,8 +12,6 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      id-token: write
     outputs:
       algolia_artifact: ${{ steps.define-ids.outputs.algolia_artifact }}
       artifact: ${{ steps.define-ids.outputs.artifact }}
@@ -80,6 +78,8 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     needs: [build, test]
     runs-on: ubuntu-latest
+    permissions:
+      id-token: write
     steps:
       - name: Download artifacts
         uses: actions/download-artifact@v4
