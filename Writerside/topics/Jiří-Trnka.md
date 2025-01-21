@@ -1,4 +1,5 @@
 # Jiří Trnka
+prezentováno 13. 1. 2025
 
 ## Základní informace
 * 1912 - 1969

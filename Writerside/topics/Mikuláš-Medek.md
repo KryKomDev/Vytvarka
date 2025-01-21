@@ -1,4 +1,5 @@
 # Mikuláš Medek
+prezentováno 26. 11. 2024
 
 ## Život
 * 1926 - 1974

@@ -1,4 +1,5 @@
 # Stanislav Kolíbal
+prezentováno 26. 11. 2024
 
 ## Život
 * 1925 - teď

@@ -1,4 +1,5 @@
 # Skupina Ra
+prezentováno 17. 12. 2024
 
 ## Základní informace
 * surrealismus, romantismus, expresionismus, **dadaismus**

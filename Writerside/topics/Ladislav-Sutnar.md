@@ -1,4 +1,5 @@
 # Ladislav Sutnar
+prezentováno 17. 12. 2024
 
 ## Základní informace
 * 1897 - 1976

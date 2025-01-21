@@ -1,4 +1,5 @@
 # Zdeněk Burian
+prezentováno 28. 11. 2024
 
 # Život
 * 1905 Kopřivnice - 1981
