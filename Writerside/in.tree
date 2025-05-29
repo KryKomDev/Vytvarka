@@ -6,9 +6,17 @@
                  name="Výtvarka 24/25"
                  start-page="Mikuláš-Medek.md">
 
+    <toc-element topic="Jaroslav-Róna.md"/>
+    <toc-element topic="Stanislav-Liberský-a-Jaroslava-Brychtová.md"/>
+    <toc-element topic="Petr-Nikl.md"/>
+    <toc-element topic="Jan-Švankmajer.md"/>
+    <toc-element topic="Karel-Malich.md"/>
+    <toc-element topic="Zorka-Ságlová.md"/>
+    <toc-element topic="Karel-Nepraš.md"/>
+    <toc-element topic="Ještěd.md"/>
+    <toc-element topic="Eva-Kmentová.md"/>
     <toc-element topic="Zdeněk-Rykr.md"/>
-    <toc-element topic="Josef-Čapek.md">
-    </toc-element>
+    <toc-element topic="Josef-Čapek.md"/>
     <toc-element topic="Jan-Zrzavý.md"/>
     <toc-element topic="Josef-Lada.md"/>
     <toc-element topic="Bratři-v-triku.md"/>
@@ -20,4 +28,6 @@
     <toc-element topic="Mikuláš-Medek.md"/>
     <toc-element topic="Stanislav-Kolíbal.md"/>
     <toc-element topic="Edward-Hopper.md"/>
+    <toc-element topic="Ester-Krumbachová.md"/>
+    <toc-element topic="Válkovy.md"/>
 </instance-profile>
