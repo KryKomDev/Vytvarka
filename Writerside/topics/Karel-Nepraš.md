@@ -4,4 +4,4 @@
 * 1932 - 2002 
 * sochař
 * Medaile za zásluhy 1. stupně
-* _Rozhovor_
+* _Velký dialog_, _Dialog_, _Dialog II_
