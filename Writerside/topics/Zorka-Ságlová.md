@@ -1,4 +1,5 @@
 # Zorka Ságlová (Jirousová)
+08/04/25
 
 * 1942 Humpolec - 2003 Praha
 * malířka, grafička, textilní, performerka

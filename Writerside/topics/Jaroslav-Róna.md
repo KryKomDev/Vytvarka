@@ -1,5 +1,5 @@
 # Jaroslav Róna
-
+03/06/25
 
 - 1957 - současnost
 - sochař, malíř, scénograf

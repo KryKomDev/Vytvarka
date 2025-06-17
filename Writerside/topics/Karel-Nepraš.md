@@ -1,3 +1,7 @@
 # Karel Nepraš
+08/04/25
 
-Start typing here...
+* 1932 - 2002 
+* sochař
+* Medaile za zásluhy 1. stupně
+* _Rozhovor_

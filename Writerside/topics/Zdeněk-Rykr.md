@@ -1,4 +1,5 @@
 # Zdeněk Rykr
+26/09/24
 
 ## Základní informace
 * 1900 - 1940

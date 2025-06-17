@@ -1,4 +1,5 @@
 # Karel Malich
+28/04/25
 
 * 1924 - 2019
 * sochař, malíř, grafik, kreslíř (hlavně suchý pastel)

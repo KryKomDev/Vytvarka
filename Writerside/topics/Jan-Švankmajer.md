@@ -1,4 +1,5 @@
 # Jan Švankmajer
+28/04/25
 
 * 1934 (Praha) - ...
 * otec aranžer, matka švadlena

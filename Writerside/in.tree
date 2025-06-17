@@ -6,6 +6,8 @@
                  name="Výtvarka 24/25"
                  start-page="Mikuláš-Medek.md">
 
+    <toc-element topic="Kateřina-Šedá.md"/>
+    <toc-element topic="Adriena-Šimotová.md"/>
     <toc-element topic="Jaroslav-Róna.md"/>
     <toc-element topic="Stanislav-Liberský-a-Jaroslava-Brychtová.md"/>
     <toc-element topic="Petr-Nikl.md"/>
